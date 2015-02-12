@@ -1,0 +1,35 @@
+﻿.imgDiv{
+	position:absolute; 
+	width:1024px;
+	height:748px;
+	left: 0px; 
+	top: 0px;
+}
+
+.button{
+	position:absolute;
+	top:50px;
+	width:28px;
+	height:15px;
+	background:url(../button.png);
+	z-index:3;
+}
+
+.line{
+	position:absolute;
+	top: 57px;
+	left: 21px;
+	background-color:#737373;
+	width: 912px;
+	height: 2px;
+	z-index:2;
+}
+
+.slder{
+	position:absolute;
+	left:38px;
+	top:639px;
+	width:950px;
+	height:100px;
+	z-index:1;
+}
